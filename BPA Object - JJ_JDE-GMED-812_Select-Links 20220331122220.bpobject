@@ -1,0 +1,1138 @@
+﻿<?xml version="1.0" encoding="utf-8"?><process name="JJ_JDE-GMED-812_Select-Links - Chrome" version="1.0" bpversion="7.0.0.40580" narrative="This object will navigate to PrintPO Menu" byrefcollection="true" type="object" runmode="Exclusive" preferredid="d3517852-f24d-4914-90db-cad7a1aa4967">
+  <appdef>
+    <element name="JJ_JDE-GMED-812_Select-Links">
+      <id>d5cb42dc-7b6a-4aef-9148-7193f50047d2</id>
+      <element name="Win32_Window_HomeScreen">
+        <id>12795bdf-73ba-4f74-a233-e93c2bfb12ce</id>
+        <element name="HTML_Menu_MD&amp;D EMEA E1 Task View">
+          <id>4539d7eb-8fbb-44c9-9bcd-76164c6e5aba</id>
+          <element name="HTML_Menu_CustomerService">
+            <id>57621621-4529-4f0e-98a7-dee30bfbe3ee</id>
+            <element name="HTML_Menu_ExportOrders">
+              <id>141cf35c-9309-445c-a71d-4822a517c659</id>
+              <element name="HTML_Menu_Export Direct Ship Orders">
+                <id>42027950-94a6-4074-9894-69ba3899901b</id>
+                <element name="HTML_Menu_PrintPo for DirectShip">
+                  <id>ff8176c7-07d8-4467-b04d-a05773200918</id>
+                  <type>WebElement</type>
+                  <basetype>WebElement</basetype>
+                  <datatype>text</datatype>
+                  <diagnose>False</diagnose>
+                  <attributes><attribute name="wX">
+                      <ProcessValue datatype="number" value="0" />
+                    </attribute><attribute name="wY">
+                      <ProcessValue datatype="number" value="0" />
+                    </attribute><attribute name="wWidth">
+                      <ProcessValue datatype="number" value="100" />
+                    </attribute><attribute name="wHeight">
+                      <ProcessValue datatype="number" value="30" />
+                    </attribute><attribute name="wXPath" comparisontype="dynamic" inuse="True">
+                      <ProcessValue datatype="text" value="/HTML/BODY[1]/DIV[2]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[2]/DIV[1]/DIV[1]/DIV[7]/DIV[2]/DIV[25]/DIV[2]/DIV[2]/DIV[11]/DIV[10]/DIV[2]/DIV[16]/DIV[9]/DIV[2]/DIV[11]/DIV[7]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[5]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[1]" />
+                    </attribute><attribute name="wElementType" inuse="True">
+                      <ProcessValue datatype="text" value="A" />
+                    </attribute><attribute name="wClass">
+                      <ProcessValue datatype="text" value="" />
+                    </attribute><attribute name="wId">
+                      <ProcessValue datatype="text" value="" />
+                    </attribute><attribute name="wTargetAddress">
+                      <ProcessValue datatype="text" value="javascript:RunNewApp(&quot;promptForDS&quot;,&quot;0&quot;,&quot;R43500&quot;,&quot;UBE&quot;,&quot;&quot;,&quot;JNJAE002&quot;,&quot;1&quot;,&quot;&quot;,&quot;Print%20PO%20for%20Direct%20Ship&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;node1000113566&quot;,&quot;&quot;,&quot;bc38d3bb84dcb546&quot;)" />
+                    </attribute><attribute name="wInputType">
+                      <ProcessValue datatype="text" value="" />
+                    </attribute><attribute name="wName">
+                      <ProcessValue datatype="text" value="" />
+                    </attribute><attribute name="wInnerText" inuse="True">
+                      <ProcessValue datatype="text" value="Print PO for Direct Ship" />
+                    </attribute><attribute name="wPageAddress">
+                      <ProcessValue datatype="text" value="http://mdde1qa.eu.jnj.com/jde/E1Menu.maf?jdeowpBackButtonProtect=PROTECTED" />
+                    </attribute><attribute name="MatchIndex" inuse="True">
+                      <ProcessValue datatype="number" value="1" />
+                    </attribute><attribute name="wClientX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wCssSelector"><ProcessValue datatype="text" value="" /></attribute><attribute name="wOffsetX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wChildCount"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wIsEditable"><ProcessValue datatype="flag" value="False" /></attribute><attribute name="wStyle"><ProcessValue datatype="text" value="" /></attribute><attribute name="wTabIndex"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wAccessKey"><ProcessValue datatype="text" value="" /></attribute><attribute name="wSource"><ProcessValue datatype="text" value="" /></attribute><attribute name="wAlt"><ProcessValue datatype="text" value="" /></attribute><attribute name="wPattern"><ProcessValue datatype="text" value="" /></attribute><attribute name="wRel"><ProcessValue datatype="text" value="" /></attribute><attribute name="wLinkTarget"><ProcessValue datatype="text" value="" /></attribute><attribute name="wPlaceholder"><ProcessValue datatype="text" value="" /></attribute><attribute name="wValue"><ProcessValue datatype="text" value="" /></attribute></attributes>
+                </element>
+                <type>WebElement</type>
+                <basetype>WebElement</basetype>
+                <datatype>text</datatype>
+                <diagnose>False</diagnose>
+                <attributes><attribute name="wX">
+                    <ProcessValue datatype="number" value="0" />
+                  </attribute><attribute name="wY">
+                    <ProcessValue datatype="number" value="0" />
+                  </attribute><attribute name="wWidth">
+                    <ProcessValue datatype="number" value="100" />
+                  </attribute><attribute name="wHeight">
+                    <ProcessValue datatype="number" value="30" />
+                  </attribute><attribute name="wXPath" comparisontype="dynamic" inuse="True">
+                    <ProcessValue datatype="text" value="/HTML/BODY[1]/DIV[2]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[2]/DIV[1]/DIV[1]/DIV[7]/DIV[2]/DIV[25]/DIV[2]/DIV[2]/DIV[11]/DIV[10]/DIV[2]/DIV[16]/DIV[9]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[5]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/SPAN[1]" />
+                  </attribute><attribute name="wElementType">
+                    <ProcessValue datatype="text" value="SPAN" />
+                  </attribute><attribute name="wClass">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute><attribute name="wId">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute><attribute name="wTargetAddress">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute><attribute name="wInputType">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute><attribute name="wName">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute><attribute name="wInnerText" inuse="True">
+                    <ProcessValue datatype="text" value="Export Direct Ship Orders" />
+                  </attribute><attribute name="wPageAddress">
+                    <ProcessValue datatype="text" value="http://mdde1qa.eu.jnj.com/jde/E1Menu.maf?jdeowpBackButtonProtect=PROTECTED" />
+                  </attribute><attribute name="MatchIndex" inuse="True">
+                    <ProcessValue datatype="number" value="1" />
+                  </attribute><attribute name="wClientX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wCssSelector"><ProcessValue datatype="text" value="" /></attribute><attribute name="wOffsetX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wChildCount"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wIsEditable"><ProcessValue datatype="flag" value="False" /></attribute><attribute name="wStyle"><ProcessValue datatype="text" value="" /></attribute><attribute name="wTabIndex"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wAccessKey"><ProcessValue datatype="text" value="" /></attribute><attribute name="wSource"><ProcessValue datatype="text" value="" /></attribute><attribute name="wAlt"><ProcessValue datatype="text" value="" /></attribute><attribute name="wPattern"><ProcessValue datatype="text" value="" /></attribute><attribute name="wRel"><ProcessValue datatype="text" value="" /></attribute><attribute name="wLinkTarget"><ProcessValue datatype="text" value="" /></attribute><attribute name="wPlaceholder"><ProcessValue datatype="text" value="" /></attribute><attribute name="wValue"><ProcessValue datatype="text" value="" /></attribute></attributes>
+              </element>
+              <type>WebElement</type>
+              <basetype>WebElement</basetype>
+              <datatype>text</datatype>
+              <diagnose>False</diagnose>
+              <attributes><attribute name="wX">
+                  <ProcessValue datatype="number" value="0" />
+                </attribute><attribute name="wY">
+                  <ProcessValue datatype="number" value="0" />
+                </attribute><attribute name="wWidth">
+                  <ProcessValue datatype="number" value="75" />
+                </attribute><attribute name="wHeight">
+                  <ProcessValue datatype="number" value="15" />
+                </attribute><attribute name="wXPath" comparisontype="dynamic" inuse="True">
+                  <ProcessValue datatype="text" value="/HTML/BODY[1]/DIV[2]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[2]/DIV[1]/DIV[1]/DIV[7]/DIV[2]/DIV[25]/DIV[2]/DIV[2]/DIV[11]/DIV[10]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[5]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/SPAN[1]" />
+                </attribute><attribute name="wElementType" inuse="True">
+                  <ProcessValue datatype="text" value="SPAN" />
+                </attribute><attribute name="wClass">
+                  <ProcessValue datatype="text" value="" />
+                </attribute><attribute name="wId">
+                  <ProcessValue datatype="text" value="" />
+                </attribute><attribute name="wTargetAddress">
+                  <ProcessValue datatype="text" value="" />
+                </attribute><attribute name="wInputType">
+                  <ProcessValue datatype="text" value="" />
+                </attribute><attribute name="wName">
+                  <ProcessValue datatype="text" value="" />
+                </attribute><attribute name="wInnerText" inuse="True">
+                  <ProcessValue datatype="text" value="Export Orders" />
+                </attribute><attribute name="wPageAddress">
+                  <ProcessValue datatype="text" value="http://mdde1qa.eu.jnj.com/jde/E1Menu.maf?jdeowpBackButtonProtect=PROTECTED" />
+                </attribute><attribute name="MatchIndex" inuse="True">
+                  <ProcessValue datatype="number" value="1" />
+                </attribute><attribute name="wClientX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wCssSelector"><ProcessValue datatype="text" value="" /></attribute><attribute name="wOffsetX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wChildCount"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wIsEditable"><ProcessValue datatype="flag" value="False" /></attribute><attribute name="wStyle"><ProcessValue datatype="text" value="" /></attribute><attribute name="wTabIndex"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wAccessKey"><ProcessValue datatype="text" value="" /></attribute><attribute name="wSource"><ProcessValue datatype="text" value="" /></attribute><attribute name="wAlt"><ProcessValue datatype="text" value="" /></attribute><attribute name="wPattern"><ProcessValue datatype="text" value="" /></attribute><attribute name="wRel"><ProcessValue datatype="text" value="" /></attribute><attribute name="wLinkTarget"><ProcessValue datatype="text" value="" /></attribute><attribute name="wPlaceholder"><ProcessValue datatype="text" value="" /></attribute><attribute name="wValue"><ProcessValue datatype="text" value="" /></attribute></attributes>
+            </element>
+            <type>WebElement</type>
+            <basetype>WebElement</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes><attribute name="wX">
+                <ProcessValue datatype="number" value="0" />
+              </attribute><attribute name="wY">
+                <ProcessValue datatype="number" value="0" />
+              </attribute><attribute name="wWidth">
+                <ProcessValue datatype="number" value="98" />
+              </attribute><attribute name="wHeight">
+                <ProcessValue datatype="number" value="15" />
+              </attribute><attribute name="wXPath" comparisontype="dynamic" inuse="True">
+                <ProcessValue datatype="text" value="/HTML/BODY[1]/DIV[2]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[2]/DIV[1]/DIV[1]/DIV[7]/DIV[2]/DIV[25]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[5]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/SPAN[1]" />
+              </attribute><attribute name="wElementType" inuse="True">
+                <ProcessValue datatype="text" value="SPAN" />
+              </attribute><attribute name="wClass">
+                <ProcessValue datatype="text" value="" />
+              </attribute><attribute name="wId">
+                <ProcessValue datatype="text" value="" />
+              </attribute><attribute name="wTargetAddress">
+                <ProcessValue datatype="text" value="" />
+              </attribute><attribute name="wInputType">
+                <ProcessValue datatype="text" value="" />
+              </attribute><attribute name="wName">
+                <ProcessValue datatype="text" value="" />
+              </attribute><attribute name="wInnerText" inuse="True">
+                <ProcessValue datatype="text" value="Customer Service" />
+              </attribute><attribute name="wPageAddress">
+                <ProcessValue datatype="text" value="http://mdde1qa.eu.jnj.com/jde/E1Menu.maf?jdeowpBackButtonProtect=PROTECTED" />
+              </attribute><attribute name="MatchIndex" inuse="True">
+                <ProcessValue datatype="number" value="1" />
+              </attribute><attribute name="wClientX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wCssSelector"><ProcessValue datatype="text" value="" /></attribute><attribute name="wOffsetX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wChildCount"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wIsEditable"><ProcessValue datatype="flag" value="False" /></attribute><attribute name="wStyle"><ProcessValue datatype="text" value="" /></attribute><attribute name="wTabIndex"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wAccessKey"><ProcessValue datatype="text" value="" /></attribute><attribute name="wSource"><ProcessValue datatype="text" value="" /></attribute><attribute name="wAlt"><ProcessValue datatype="text" value="" /></attribute><attribute name="wPattern"><ProcessValue datatype="text" value="" /></attribute><attribute name="wRel"><ProcessValue datatype="text" value="" /></attribute><attribute name="wLinkTarget"><ProcessValue datatype="text" value="" /></attribute><attribute name="wPlaceholder"><ProcessValue datatype="text" value="" /></attribute><attribute name="wValue"><ProcessValue datatype="text" value="" /></attribute></attributes>
+          </element>
+          <type>WebElement</type>
+          <basetype>WebElement</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes><attribute name="wX">
+              <ProcessValue datatype="number" value="0" />
+            </attribute><attribute name="wY">
+              <ProcessValue datatype="number" value="0" />
+            </attribute><attribute name="wWidth">
+              <ProcessValue datatype="number" value="147" />
+            </attribute><attribute name="wHeight">
+              <ProcessValue datatype="number" value="15" />
+            </attribute><attribute name="wXPath" comparisontype="dynamic" inuse="True">
+              <ProcessValue datatype="text" value="/HTML/BODY[1]/DIV[2]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[2]/DIV[1]/DIV[1]/DIV[7]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[4]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/SPAN[1]" />
+            </attribute><attribute name="wElementType" inuse="True">
+              <ProcessValue datatype="text" value="SPAN" />
+            </attribute><attribute name="wClass">
+              <ProcessValue datatype="text" value="" />
+            </attribute><attribute name="wId">
+              <ProcessValue datatype="text" value="" />
+            </attribute><attribute name="wTargetAddress">
+              <ProcessValue datatype="text" value="" />
+            </attribute><attribute name="wInputType">
+              <ProcessValue datatype="text" value="" />
+            </attribute><attribute name="wName">
+              <ProcessValue datatype="text" value="" />
+            </attribute><attribute name="wInnerText" inuse="True">
+              <ProcessValue datatype="text" value="MD&amp;D EMEA E1 Task View" />
+            </attribute><attribute name="wPageAddress">
+              <ProcessValue datatype="text" value="http://mdde1qa.eu.jnj.com/jde/E1Menu.maf?jdeowpBackButtonProtect=PROTECTED" />
+            </attribute><attribute name="MatchIndex" inuse="True">
+              <ProcessValue datatype="number" value="1" />
+            </attribute><attribute name="wClientX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wClientHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wCssSelector"><ProcessValue datatype="text" value="" /></attribute><attribute name="wOffsetX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wOffsetHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollX"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollY"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollWidth"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wScrollHeight"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wChildCount"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wIsEditable"><ProcessValue datatype="flag" value="False" /></attribute><attribute name="wStyle"><ProcessValue datatype="text" value="" /></attribute><attribute name="wTabIndex"><ProcessValue datatype="number" value="0" /></attribute><attribute name="wAccessKey"><ProcessValue datatype="text" value="" /></attribute><attribute name="wSource"><ProcessValue datatype="text" value="" /></attribute><attribute name="wAlt"><ProcessValue datatype="text" value="" /></attribute><attribute name="wPattern"><ProcessValue datatype="text" value="" /></attribute><attribute name="wRel"><ProcessValue datatype="text" value="" /></attribute><attribute name="wLinkTarget"><ProcessValue datatype="text" value="" /></attribute><attribute name="wPlaceholder"><ProcessValue datatype="text" value="" /></attribute><attribute name="wValue"><ProcessValue datatype="text" value="" /></attribute></attributes>
+        </element>
+        <type>Window</type>
+        <basetype>Window</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="WindowText" comparisontype="Wildcard" inuse="True">
+            <ProcessValue datatype="text" value="*JD Edwards EnterpriseOne*" />
+          </attribute>
+          <attribute name="ClassName" inuse="True">
+            <ProcessValue datatype="text" value="IEFrame" />
+          </attribute>
+          <attribute name="CtrlID">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="29" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="655" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="434" />
+          </attribute>
+          <attribute name="Visible" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="ScreenVisible">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Enabled">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Active">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Ordinal">
+            <ProcessValue datatype="number" value="9" />
+          </attribute>
+          <attribute name="ChildCount">
+            <ProcessValue datatype="number" value="6" />
+          </attribute>
+          <attribute name="AncestorsText">
+            <ProcessValue datatype="text" value="&lt;UNKNOWN&gt; " />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="TypeName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:8,29,454,646" />
+          </attribute>
+          <attribute name="Style">
+            <ProcessValue datatype="number" value="382664704" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="MatchReverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <type>Application</type>
+      <basetype>Application</basetype>
+      <datatype>unknown</datatype>
+      <diagnose>False</diagnose>
+    </element>
+    <apptypeinfo>
+      <id>BrowserAttach</id>
+      <parameters><parameter>
+          <name>WindowTitle</name>
+          <value>
+          </value>
+        </parameter><parameter>
+          <name>Path</name>
+          <value>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</value>
+        </parameter><parameter>
+          <name>CommandLineParams</name>
+          <value>
+          </value>
+        </parameter><parameter>
+          <name>ProcessMode</name>
+          <value>Internal</value>
+        </parameter><parameter>
+          <name>ExternalProcessTimeout</name>
+          <value>0</value>
+        </parameter></parameters>
+    </apptypeinfo>
+  </appdef>
+  <view>
+    <camerax>194</camerax>
+    <cameray>63</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions>
+    <condition narrative="Login to JD Edward application" />
+  </preconditions>
+  <endpoint narrative="Navigates to PrintPo for DirectShip link" />
+  <subsheet subsheetid="ba57583a-3177-4886-99e9-8f1269b776ff" type="CleanUp" published="True">
+    <name>Clean Up</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="b3c2f978-c58a-495c-9973-25c55cabdbd4" type="Normal" published="False">
+    <name>Attach </name>
+    <view>
+      <camerax>40</camerax>
+      <cameray>15</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="2158cb1e-0ba0-4b86-9b4c-ca49e1261615" type="Normal" published="True">
+    <name>Select PrintPo for directship link</name>
+    <view>
+      <camerax>30</camerax>
+      <cameray>535</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="829df093-6d6f-499d-8798-f07d59d21c87" type="Normal" published="True">
+    <name>Click on PrintPO</name>
+    <view>
+      <camerax>-249</camerax>
+      <cameray>67</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <stage stageid="b5df7bac-000b-426b-81b0-2ebec2ada45a" name="Start" type="Start">
+    <loginhibit onsuccess="true" />
+    <display x="15" y="-105" />
+    <onsuccess>e4d7b58a-e003-49be-8ef0-8fb29f435756</onsuccess>
+  </stage>
+  <stage stageid="e4d7b58a-e003-49be-8ef0-8fb29f435756" name="End" type="End">
+    <loginhibit onsuccess="true" />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="5195c6ec-6e3f-4800-98c9-14786eea28bc" name="Stage1" type="ProcessInfo">
+    <loginhibit onsuccess="true" />
+    <display x="-195" y="-105" w="150" h="90" />
+    <references>
+      <reference>System.dll</reference>
+      <reference>System.Data.dll</reference>
+      <reference>System.Xml.dll</reference>
+      <reference>System.Drawing.dll</reference>
+    </references>
+    <imports>
+      <import>System</import>
+      <import>System.Drawing</import>
+      <import>System.Data</import>
+    </imports>
+    <language>visualbasic</language>
+    <globalcode><![CDATA[]]></globalcode>
+    <code><![CDATA[]]></code>
+  </stage>
+  <stage stageid="441ccd79-5242-4e43-941f-9bd76eab6646" name="Clean Up" type="SubSheetInfo">
+    <subsheetid>ba57583a-3177-4886-99e9-8f1269b776ff</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="857c5b1d-b69f-4c29-a1a4-7fc6707cd8ed" name="Start" type="Start">
+    <subsheetid>ba57583a-3177-4886-99e9-8f1269b776ff</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="15" y="-105" />
+    <onsuccess>760cc819-1c51-48e7-bb98-74c3525e1c8e</onsuccess>
+  </stage>
+  <stage stageid="760cc819-1c51-48e7-bb98-74c3525e1c8e" name="End" type="End">
+    <subsheetid>ba57583a-3177-4886-99e9-8f1269b776ff</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="f6771d79-9f12-4c02-a98d-039c52755d94" name="Note1" type="Note">
+    <subsheetid>ba57583a-3177-4886-99e9-8f1269b776ff</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Clean Up Page
+
+This is an optional page where you might choose to perform some finalisation (or "cleanup") tasks as your business object is closed down.
+
+The cleanup action will be called automatically immediately after closing your business object at the end of a business process.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than before the disposal of the business object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="8c6eb6d1-f352-4148-aa1c-27e68fe5be41" name="Note2" type="Note">
+    <loginhibit onsuccess="true" />
+    <narrative>Initialise Page
+
+This is an optional page where you might choose to perform some initialisation tasks after your business object is loaded.
+
+The initialise action will be called automatically immediately after loading your business object.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than after the creation of the object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="9b528c43-b0fe-41ed-95a4-5cadaa1a96c2" name="Global Timeout - M" type="Data">
+    <loginhibit onsuccess="true" />
+    <narrative>M</narrative>
+    <display x="120" y="-15" w="90" h="30" />
+    <datatype>number</datatype>
+    <initialvalue>45</initialvalue>
+    <alwaysinit />
+  </stage>
+  <stage stageid="fe34960c-14fe-4f81-98e3-791e0649cc8f" name="Global Timeout - S" type="Data">
+    <loginhibit onsuccess="true" />
+    <narrative> S</narrative>
+    <display x="300" y="-60" w="90" h="30" />
+    <datatype>number</datatype>
+    <initialvalue>30</initialvalue>
+    <alwaysinit />
+  </stage>
+  <stage stageid="36d3ada4-3123-4f49-8e92-bddfde9264a0" name="Global Timeout - L" type="Data">
+    <loginhibit onsuccess="true" />
+    <narrative>L</narrative>
+    <display x="210" y="-15" w="90" h="30" />
+    <datatype>number</datatype>
+    <initialvalue>60</initialvalue>
+    <alwaysinit />
+  </stage>
+  <stage stageid="a4d792e7-ea9e-4cd4-a60d-bef5869510b3" name="Global Timeout - XL" type="Data">
+    <loginhibit onsuccess="true" />
+    <narrative>XL</narrative>
+    <display x="300" y="-15" w="90" h="30" />
+    <datatype>number</datatype>
+    <initialvalue>120</initialvalue>
+    <alwaysinit />
+  </stage>
+  <stage stageid="78c22adb-67e1-42fb-a373-7fc3e8a2745c" name="Global Timeout - XXL" type="Data">
+    <loginhibit onsuccess="true" />
+    <narrative>XL</narrative>
+    <display x="120" y="30" w="90" h="30" />
+    <datatype>number</datatype>
+    <initialvalue>140</initialvalue>
+    <alwaysinit />
+  </stage>
+  <stage stageid="ebc9e3cf-8f30-4140-aa48-0c96bceb1e1d" name="Global Timeouts" type="Block">
+    <loginhibit onsuccess="true" />
+    <display x="60" y="-90" w="300" h="195" />
+    <font family="Segoe UI" size="10" style="Regular" color="FFCC99" />
+  </stage>
+  <stage stageid="b21ff615-f93e-4b35-9075-c91d264c26af" name="Global Timeout - XXS" type="Data">
+    <loginhibit onsuccess="true" />
+    <narrative>XXS</narrative>
+    <display x="120" y="-60" w="90" h="30" />
+    <datatype>number</datatype>
+    <initialvalue>5</initialvalue>
+    <alwaysinit />
+  </stage>
+  <stage stageid="f6e73ae5-cfac-438b-a5d4-1ded99fccfed" name="Global Timeout - XS" type="Data">
+    <loginhibit onsuccess="true" />
+    <narrative>XS</narrative>
+    <display x="210" y="-60" w="90" h="30" />
+    <datatype>number</datatype>
+    <initialvalue>15</initialvalue>
+    <alwaysinit />
+  </stage>
+  <stage stageid="0a12c821-ff84-4771-9494-8db1ab89374c" name="Window Title" type="Data">
+    <loginhibit onsuccess="true" />
+    <narrative>Window Title</narrative>
+    <display x="210" y="30" w="90" h="30" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <alwaysinit />
+  </stage>
+  <stage stageid="b4426e46-f9b0-4314-91eb-66252b0d3cd1" name="Attach " type="SubSheetInfo">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Attaches to the JD Edwards home screen</narrative>
+    <display x="-195" y="-135" w="210" h="90" />
+  </stage>
+  <stage stageid="79fa9b18-2448-458c-ad96-bca657fa52be" name="Start" type="Start">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <preconditions>
+      <condition narrative="JD Ewards application should be launched and login." />
+    </preconditions>
+    <postconditions>
+      <condition narrative="Attaches to the JD Edwards home screen." />
+    </postconditions>
+    <display x="15" y="-135" />
+    <inputs>
+      <input type="text" name="Window tilte" narrative="Contains Window Titles" stage="Window Title" />
+      <input type="number" name="Child index" narrative="Contains Child Index" stage="Child index" />
+      <input type="text" name="Process Name" narrative="Contains Process Name" stage="Process Name" />
+    </inputs>
+    <onsuccess>43a5c242-8264-460b-9663-b2d26e572d01</onsuccess>
+  </stage>
+  <stage stageid="fe949a9d-a02f-495b-b90e-32bcde93e275" name="End" type="End">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="15" y="105" />
+  </stage>
+  <stage stageid="43a5c242-8264-460b-9663-b2d26e572d01" name="Is Connected" type="Read">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="15" y="-75" />
+    <onsuccess>b5ba47b5-63d8-45f5-8cc4-9753b325f70a</onsuccess>
+    <breakpoint type="0"><condition /></breakpoint><step stage="Is Connected">
+      <element id="d5cb42dc-7b6a-4aef-9148-7193f50047d2" />
+      <action>
+        <id>IsConnected</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="87343dbe-3e8a-4cd3-bd8b-5d2ca15929b0" name="Is Connected" type="Data">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="-210" y="15" w="90" h="30" />
+    <datatype>flag</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="b5ba47b5-63d8-45f5-8cc4-9753b325f70a" name="Is Connected?" type="Decision">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="15" y="-15" />
+    <decision expression="[Is Connected]" />
+    <ontrue>fe949a9d-a02f-495b-b90e-32bcde93e275</ontrue>
+    <onfalse>57c4b016-5a37-402f-b3ef-9319b4af631a</onfalse>
+  </stage>
+  <stage stageid="57c4b016-5a37-402f-b3ef-9319b4af631a" name="Attach" type="Navigate">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="135" y="-15" />
+    <onsuccess>49500f53-1572-4a28-ba85-54dad76d6311</onsuccess>
+    <breakpoint type="0"><condition /></breakpoint><step>
+      <element id="d5cb42dc-7b6a-4aef-9148-7193f50047d2" />
+      <action>
+        <id>AttachApplication</id>
+        <arguments>
+          <argument>
+            <id>WindowTitlesCollection</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>WindowTitle</id>
+            <value>[Window Title]</value>
+          </argument>
+          <argument>
+            <id>ProcessName</id>
+            <value>[Process Name]</value>
+          </argument>
+          <argument>
+            <id>ProcessID</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>Username</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>ChildIndex</id>
+            <value>[Child index]</value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="121c8dd3-f5ad-478c-b4dc-e3dc44bb9f4c" name="SE-Unable to attach the application" type="Exception">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="225" y="105" />
+    <exception type="System Exception" detail="&quot;Unable to attach to the JDE home screen&quot;" />
+  </stage>
+  <stage stageid="0a3054d5-40ba-4260-a1e6-2aef5b6788c6" name="Outputs" type="Block">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="-285" y="-30" w="150" h="90" />
+    <font family="Segoe UI" size="10" style="Regular" color="999999" />
+  </stage>
+  <stage stageid="49500f53-1572-4a28-ba85-54dad76d6311" name="Is Connected" type="Read">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="135" y="45" />
+    <onsuccess>11c7ac90-5579-4c12-8d5b-64de0edb66e8</onsuccess>
+    <breakpoint type="0"><condition /></breakpoint><step stage="Is Connected">
+      <element id="d5cb42dc-7b6a-4aef-9148-7193f50047d2" />
+      <action>
+        <id>IsConnected</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="11c7ac90-5579-4c12-8d5b-64de0edb66e8" name="Is Connected?" type="Decision">
+    <subsheetid>b3c2f978-c58a-495c-9973-25c55cabdbd4</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="135" y="105" />
+    <decision expression="[Is Connected]" />
+    <ontrue>fe949a9d-a02f-495b-b90e-32bcde93e275</ontrue>
+    <onfalse>121c8dd3-f5ad-478c-b4dc-e3dc44bb9f4c</onfalse>
+  </stage>
+  <stage stageid="0b4a13eb-a089-4073-902e-4f8c303fac3d" name="Select PrintPo for directship link" type="SubSheetInfo">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>This page navigates to PrintPo for DirectShip link.</narrative>
+    <display x="-210" y="-150" w="240" h="90" />
+  </stage>
+  <stage stageid="0e97c66f-9f78-4566-9024-651e143da196" name="Start" type="Start">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <preconditions>
+      <condition narrative="Login to JD Edwards application." />
+    </preconditions>
+    <postconditions>
+      <condition narrative="Navigates to PrintPo for DirectShip link." />
+    </postconditions>
+    <display x="30" y="-165" />
+    <inputs>
+      <input type="text" name="Window Title" narrative="contains Window Title" stage="Window Title" />
+      <input type="number" name="Child index" narrative="Contains child index" stage="Child index" />
+      <input type="text" name="Process Name" narrative="Contains Process Name" stage="Process Name" />
+      <input type="collection" name="HTML Paths" narrative="Contains HTML Paths" stage="HTML Paths" />
+    </inputs>
+    <onsuccess>1423706e-6a80-47f0-8fb6-8bf4efa555be</onsuccess>
+  </stage>
+  <stage stageid="69b0ac95-848e-4fee-9e4a-ae8ae7687e30" name="End" type="End">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="30" y="630" />
+  </stage>
+  <stage stageid="48ea116f-9d96-44f5-ab0a-bf8144349ad5" name="Time Out - Home screen exists" type="WaitEnd">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="105" y="-45" w="30" h="30" />
+    <onsuccess>a5c0a9fb-0eda-404c-8cca-d8648f6160a6</onsuccess>
+    <groupid>a532b174-b1de-42dd-a45b-05589ce87738</groupid>
+  </stage>
+  <stage stageid="6dd5977d-72ed-49eb-a3ef-053a622fd725" name="Home screen exists" type="WaitStart">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Home screen exists</narrative>
+    <display x="-45" y="-45" w="30" h="30" />
+    <groupid>a532b174-b1de-42dd-a45b-05589ce87738</groupid>
+    <choices>
+      <choice reply="True">
+        <name>Win32_Window_HomeScreen Check Exists</name>
+        <distance>75</distance>
+        <ontrue>f0af6c60-7ace-467a-8957-0d8932dbe232</ontrue>
+        <element id="12795bdf-73ba-4f74-a233-e93c2bfb12ce" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>[Global Timeout - XS]</timeout>
+  </stage>
+  <stage stageid="1423706e-6a80-47f0-8fb6-8bf4efa555be" name="Attach " type="SubSheet">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="30" y="-105" />
+    <inputs>
+      <input type="text" name="Window tilte" friendlyname="Window tilte" narrative="Contains Window Titles" expr="[Window Title]" />
+      <input type="number" name="Child index" friendlyname="Child index" narrative="Contains Child Index" expr="[Child index]" />
+      <input type="text" name="Process Name" friendlyname="Process Name" narrative="Contains Process Name" expr="[Process Name]" />
+    </inputs>
+    <onsuccess>6dd5977d-72ed-49eb-a3ef-053a622fd725</onsuccess>
+    <processid>b3c2f978-c58a-495c-9973-25c55cabdbd4</processid>
+  </stage>
+  <stage stageid="36ca041f-a588-4459-9236-2426bdc9bc4d" name="Click on PrintPo for DirectShip" type="Navigate" interval="[Global Timeout - XS]">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Click on PrintPo for DirectShip</narrative>
+    <display x="30" y="570" />
+    <onsuccess>69b0ac95-848e-4fee-9e4a-ae8ae7687e30</onsuccess>
+    <breakpoint type="0"><condition /></breakpoint><step>
+      <element id="ff8176c7-07d8-4467-b04d-a05773200918">
+        <elementparameter>
+          <name>wXPath</name>
+          <expression>[HTML Paths.HTML_Menu_PrintPo for DirectShip]</expression>
+          <datatype>text</datatype>
+          <comparisontype>Equal</comparisontype>
+        </elementparameter>
+      </element>
+      <action>
+        <id>WebClick</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="f0af6c60-7ace-467a-8957-0d8932dbe232" name="Activate Application" type="Navigate">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Activate Application</narrative>
+    <display x="30" y="15" />
+    <onsuccess>538e4f29-8850-420a-9724-ac13129e20f3</onsuccess>
+    <step>
+      <element id="12795bdf-73ba-4f74-a233-e93c2bfb12ce" />
+      <action>
+        <id>ActivateApp</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="9924d8b7-e9d1-48fc-b663-47018bd83344" name="Time Out - PrintPO Menu exists" type="WaitEnd">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="105" y="510" w="30" h="30" />
+    <onsuccess>44211176-b9b6-4587-b42b-71ca8b3ca384</onsuccess>
+    <groupid>b97b8f36-97c9-46c5-9775-37045ea95e23</groupid>
+  </stage>
+  <stage stageid="2a89f362-ff9c-4fb8-8b9a-85a9b026564d" name="PrintPO Menu exists" type="WaitStart">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>PrintPO Menu exists</narrative>
+    <display x="-45" y="510" w="30" h="30" />
+    <groupid>b97b8f36-97c9-46c5-9775-37045ea95e23</groupid>
+    <breakpoint type="0"><condition /></breakpoint><choices>
+      <choice reply="True">
+        <name>HTML_Menu_PrintPo for DirectShip Check Exists</name>
+        <distance>75</distance>
+        <ontrue>36ca041f-a588-4459-9236-2426bdc9bc4d</ontrue>
+        <element id="ff8176c7-07d8-4467-b04d-a05773200918">
+          <elementparameter>
+            <name>wXPath</name>
+            <expression>[HTML Paths.HTML_Menu_PrintPo for DirectShip]</expression>
+            <datatype>text</datatype>
+            <comparisontype>Equal</comparisontype>
+          </elementparameter>
+        </element>
+        <condition>
+          <id>WebCheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>[Global Timeout - L]</timeout>
+  </stage>
+  <stage stageid="a5c0a9fb-0eda-404c-8cca-d8648f6160a6" name="SE-JD Edwards home screen not found" type="Exception">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="195" y="-45" w="90" h="30" />
+    <exception type="System Exception" detail="&quot;SE-JD Edwards home screen not found&quot;" />
+  </stage>
+  <stage stageid="44211176-b9b6-4587-b42b-71ca8b3ca384" name="SE-PrintPo Menu not found" type="Exception">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="195" y="510" w="90" h="30" />
+    <exception type="System Exception" detail="&quot;SE-PrintPo Menu not found&quot;" />
+  </stage>
+  <stage stageid="6c15b585-0147-454e-a029-1a4b1a995e2f" name="Click on MD&amp;D EMEA E1 Menu" type="Navigate">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Click on MD&amp;D EMEA E1 Menu</narrative>
+    <display x="30" y="120" />
+    <onsuccess>d43cbcc4-1b13-4862-bb47-679377b4792e</onsuccess>
+    <breakpoint type="0"><condition /></breakpoint><step>
+      <element id="4539d7eb-8fbb-44c9-9bcd-76164c6e5aba">
+        <elementparameter>
+          <name>wXPath</name>
+          <expression>[HTML Paths.HTML_Menu_MD&amp;D EMEA E1 Task View]</expression>
+          <datatype>text</datatype>
+          <comparisontype>Equal</comparisontype>
+        </elementparameter>
+      </element>
+      <action>
+        <id>WebClick</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="9d2e2c5e-3b0a-4792-800a-d651dc6e29ee" name="Time Out - MD&amp;D EMEA E1 Menu  exists" type="WaitEnd">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="105" y="60" w="30" h="30" />
+    <onsuccess>7d17433d-b162-4f99-9218-9af6ba2a2348</onsuccess>
+    <groupid>a15f78f6-4813-4f93-b931-14080d6a5387</groupid>
+  </stage>
+  <stage stageid="538e4f29-8850-420a-9724-ac13129e20f3" name="MD&amp;D EMEA E1 Menu  exists" type="WaitStart">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>MD&amp;D EMEA E1 Menu  exists</narrative>
+    <display x="-45" y="60" w="30" h="30" />
+    <groupid>a15f78f6-4813-4f93-b931-14080d6a5387</groupid>
+    <breakpoint type="0"><condition /></breakpoint><choices>
+      <choice reply="True">
+        <name>HTML_Menu_MD&amp;D EMEA E1 Task View Check Exists</name>
+        <distance>75</distance>
+        <ontrue>6c15b585-0147-454e-a029-1a4b1a995e2f</ontrue>
+        <element id="4539d7eb-8fbb-44c9-9bcd-76164c6e5aba">
+          <elementparameter>
+            <name>wXPath</name>
+            <expression>[HTML Paths.HTML_Menu_MD&amp;D EMEA E1 Task View]</expression>
+            <datatype>text</datatype>
+            <comparisontype>Equal</comparisontype>
+          </elementparameter>
+        </element>
+        <condition>
+          <id>WebCheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>[Global Timeout - L]</timeout>
+  </stage>
+  <stage stageid="7d17433d-b162-4f99-9218-9af6ba2a2348" name="SE-MD&amp;D EMEA E1 Menu not found" type="Exception">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="195" y="60" w="90" h="30" />
+    <exception type="System Exception" detail="&quot;SE-MD&amp;D EMEA E1 Menu not found&quot;" />
+  </stage>
+  <stage stageid="5c021c5c-bfb4-4ed9-bd48-c0a8a8ef1c59" name="Click on CustomerService Menu" type="Navigate">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Click on CustomerService Menu</narrative>
+    <display x="30" y="225" />
+    <onsuccess>4596e1fa-0009-4ecc-ba61-dd2e120b4677</onsuccess>
+    <breakpoint type="0"><condition /></breakpoint><step>
+      <element id="57621621-4529-4f0e-98a7-dee30bfbe3ee">
+        <elementparameter>
+          <name>wXPath</name>
+          <expression>[HTML Paths.HTML_Menu_CustomerService]</expression>
+          <datatype>text</datatype>
+          <comparisontype>Equal</comparisontype>
+        </elementparameter>
+      </element>
+      <action>
+        <id>WebClick</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="62ae32bd-1353-4768-8a10-7b4e70100810" name="Time Out - Customer Service Menu  exists" type="WaitEnd">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="105" y="165" w="30" h="30" />
+    <onsuccess>e9e6e780-cae0-4765-b7e2-0590a60ea998</onsuccess>
+    <groupid>ab13b320-3566-496c-bd9b-addc495e0971</groupid>
+  </stage>
+  <stage stageid="d43cbcc4-1b13-4862-bb47-679377b4792e" name="Customer Service Menu  exists" type="WaitStart">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Customer Service Menu  exists</narrative>
+    <display x="-45" y="165" w="30" h="30" />
+    <groupid>ab13b320-3566-496c-bd9b-addc495e0971</groupid>
+    <breakpoint type="0"><condition /></breakpoint><choices>
+      <choice reply="True">
+        <name>HTML_Menu_CustomerService Check Exists</name>
+        <distance>75</distance>
+        <ontrue>5c021c5c-bfb4-4ed9-bd48-c0a8a8ef1c59</ontrue>
+        <element id="57621621-4529-4f0e-98a7-dee30bfbe3ee">
+          <elementparameter>
+            <name>wXPath</name>
+            <expression>[HTML Paths.HTML_Menu_CustomerService]</expression>
+            <datatype>text</datatype>
+            <comparisontype>Equal</comparisontype>
+          </elementparameter>
+        </element>
+        <condition>
+          <id>WebCheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>[Global Timeout - L]</timeout>
+  </stage>
+  <stage stageid="e9e6e780-cae0-4765-b7e2-0590a60ea998" name="SE-Customer Service Menu not found" type="Exception">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="195" y="165" w="90" h="30" />
+    <exception type="System Exception" detail="&quot;SE-Customer Service Menu not found&quot;" />
+  </stage>
+  <stage stageid="ee35c4ca-0e01-4a42-9654-6806ee18c94d" name="Click on ExportOrders Menu" type="Navigate">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Click on ExportOrders Menu</narrative>
+    <display x="30" y="345" />
+    <onsuccess>be4ce53e-9157-485c-b556-e470d833f353</onsuccess>
+    <breakpoint type="0"><condition /></breakpoint><step>
+      <element id="141cf35c-9309-445c-a71d-4822a517c659">
+        <elementparameter>
+          <name>wXPath</name>
+          <expression>[HTML Paths.HTML_Menu_ExportOrders]</expression>
+          <datatype>text</datatype>
+          <comparisontype>Equal</comparisontype>
+        </elementparameter>
+      </element>
+      <action>
+        <id>WebClick</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="f3ae7544-e594-4c67-8b39-aa5819d87f7b" name="Time Out - ExportOrders Menu  exists" type="WaitEnd">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="105" y="285" w="30" h="30" />
+    <onsuccess>0615a739-816f-4e6c-9f34-7b0671fa983d</onsuccess>
+    <groupid>7c974861-ec5f-4edf-a566-a1d609bdf739</groupid>
+  </stage>
+  <stage stageid="4596e1fa-0009-4ecc-ba61-dd2e120b4677" name="ExportOrders Menu  exists" type="WaitStart">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>ExportOrders Menu  exists</narrative>
+    <display x="-45" y="285" w="30" h="30" />
+    <groupid>7c974861-ec5f-4edf-a566-a1d609bdf739</groupid>
+    <breakpoint type="0"><condition /></breakpoint><choices>
+      <choice reply="True">
+        <name>HTML_Menu_ExportOrders Check Exists</name>
+        <distance>75</distance>
+        <ontrue>ee35c4ca-0e01-4a42-9654-6806ee18c94d</ontrue>
+        <element id="141cf35c-9309-445c-a71d-4822a517c659">
+          <elementparameter>
+            <name>wXPath</name>
+            <expression>[HTML Paths.HTML_Menu_ExportOrders]</expression>
+            <datatype>text</datatype>
+            <comparisontype>Equal</comparisontype>
+          </elementparameter>
+        </element>
+        <condition>
+          <id>WebCheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>[Global Timeout - L]</timeout>
+  </stage>
+  <stage stageid="0615a739-816f-4e6c-9f34-7b0671fa983d" name="SE-ExportOrders Menu not found" type="Exception">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="195" y="285" w="90" h="30" />
+    <exception type="System Exception" detail="&quot;SE-ExportOrders Menu not found&quot;" />
+  </stage>
+  <stage stageid="392f67ff-8a0d-4c32-9518-99d2388ab0e5" name="Click on ExportDirectShip Orders Menu" type="Navigate">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Click on ExportDirectShip Orders Menu</narrative>
+    <display x="30" y="450" />
+    <onsuccess>2a89f362-ff9c-4fb8-8b9a-85a9b026564d</onsuccess>
+    <breakpoint type="0"><condition /></breakpoint><step>
+      <element id="42027950-94a6-4074-9894-69ba3899901b">
+        <elementparameter>
+          <name>wXPath</name>
+          <expression>[HTML Paths.HTML_Menu_Export Direct Ship Orders]</expression>
+          <datatype>text</datatype>
+          <comparisontype>Equal</comparisontype>
+        </elementparameter>
+      </element>
+      <action>
+        <id>WebClick</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="e111e096-71f9-4a97-8c6d-a1fe3e029eee" name="Time Out - ExportDirectShip Orders Menu  exists" type="WaitEnd">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="105" y="405" w="30" h="30" />
+    <onsuccess>8c0d68ff-7bc6-4233-b686-cce2af0519ed</onsuccess>
+    <groupid>98ad95c0-9747-4ff1-b627-ec74830de64d</groupid>
+  </stage>
+  <stage stageid="be4ce53e-9157-485c-b556-e470d833f353" name="ExportDirectShip Orders Menu  exists" type="WaitStart">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>ExportDirectShip Orders Menu  exists</narrative>
+    <display x="-45" y="405" w="30" h="30" />
+    <groupid>98ad95c0-9747-4ff1-b627-ec74830de64d</groupid>
+    <breakpoint type="0"><condition /></breakpoint><choices>
+      <choice reply="True">
+        <name>HTML_Menu_Export Direct Ship Orders Check Exists</name>
+        <distance>75</distance>
+        <ontrue>392f67ff-8a0d-4c32-9518-99d2388ab0e5</ontrue>
+        <element id="42027950-94a6-4074-9894-69ba3899901b">
+          <elementparameter>
+            <name>wXPath</name>
+            <expression>[HTML Paths.HTML_Menu_Export Direct Ship Orders]</expression>
+            <datatype>text</datatype>
+            <comparisontype>Equal</comparisontype>
+          </elementparameter>
+        </element>
+        <condition>
+          <id>WebCheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>[Global Timeout - L]</timeout>
+  </stage>
+  <stage stageid="8c0d68ff-7bc6-4233-b686-cce2af0519ed" name="SE-ExportDirectShip Orders Menu not found" type="Exception">
+    <subsheetid>2158cb1e-0ba0-4b86-9b4c-ca49e1261615</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="195" y="405" w="90" h="30" />
+    <exception type="System Exception" detail="&quot;SE-ExportDirectShip Orders Menu not found&quot;" />
+  </stage>
+  <stage stageid="de2f66f7-f51d-4ff4-be12-e2de7985c1e5" name="Click on PrintPO" type="SubSheetInfo">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>This page clicks on Print PO Menu</narrative>
+    <display x="-555" y="-135" w="240" h="90" />
+  </stage>
+  <stage stageid="1613fd28-2802-4322-87a3-222585f6b0c7" name="Start" type="Start">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <preconditions>
+      <condition narrative="Login to JD Edwards application." />
+    </preconditions>
+    <postconditions>
+      <condition narrative="Navigates to PrintPo for DirectShip link." />
+    </postconditions>
+    <display x="-315" y="-150" />
+    <inputs>
+      <input type="text" name="Window Title" narrative="contains Window Title" stage="Window Title" />
+      <input type="number" name="Child index" narrative="contains childindex" stage="Child index" />
+      <input type="text" name="Process Name" narrative="Contains Process Name" stage="Process Name" />
+      <input type="collection" name="HTML Paths" narrative="Contains HTML Paths" stage="HTML Paths" />
+    </inputs>
+    <onsuccess>8b779b56-90ae-494c-9ca7-692581b25dc5</onsuccess>
+  </stage>
+  <stage stageid="ffa715ca-def4-4e40-9068-13f2c4c70706" name="End" type="End">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="-315" y="195" />
+  </stage>
+  <stage stageid="e685ac3d-af63-402c-96bd-923b3e1be068" name="Time Out - Home screen exists" type="WaitEnd">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="-240" y="-30" w="30" h="30" />
+    <onsuccess>4b83e910-2c9e-43a1-80b7-1e53f364d6fb</onsuccess>
+    <groupid>939532be-cf3b-4778-ba14-2cbd18096b83</groupid>
+  </stage>
+  <stage stageid="b7e9b9be-d42a-4485-bba8-8cf4a986bcef" name="Home screen exists" type="WaitStart">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Home screen exists</narrative>
+    <display x="-390" y="-30" w="30" h="30" />
+    <groupid>939532be-cf3b-4778-ba14-2cbd18096b83</groupid>
+    <choices>
+      <choice reply="True">
+        <name>Win32_Window_HomeScreen Check Exists</name>
+        <distance>75</distance>
+        <ontrue>2e8ab520-41ae-48a3-bfc2-1a8b4d4c00dd</ontrue>
+        <element id="12795bdf-73ba-4f74-a233-e93c2bfb12ce" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>[Global Timeout - XS]</timeout>
+  </stage>
+  <stage stageid="8b779b56-90ae-494c-9ca7-692581b25dc5" name="Attach " type="SubSheet">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="-315" y="-90" />
+    <inputs>
+      <input type="text" name="Window tilte" friendlyname="Window tilte" narrative="Contains Window Titles" expr="[Window Title]" />
+      <input type="number" name="Child index" friendlyname="Child index" narrative="Contains Child Index" expr="[Child index]" />
+      <input type="text" name="Process Name" friendlyname="Process Name" narrative="Contains Process Name" expr="[Process Name]" />
+    </inputs>
+    <onsuccess>b7e9b9be-d42a-4485-bba8-8cf4a986bcef</onsuccess>
+    <processid>b3c2f978-c58a-495c-9973-25c55cabdbd4</processid>
+  </stage>
+  <stage stageid="8e1a311a-2bd3-4e0e-8d54-557dcc3b89e1" name="Click on PrintPo for DirectShip" type="Navigate" interval="[Global Timeout - XS]">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Click on PrintPo for DirectShip</narrative>
+    <display x="-315" y="135" />
+    <onsuccess>ffa715ca-def4-4e40-9068-13f2c4c70706</onsuccess>
+    <breakpoint type="0"><condition /></breakpoint><step>
+      <element id="ff8176c7-07d8-4467-b04d-a05773200918">
+        <elementparameter>
+          <name>wXPath</name>
+          <expression>[HTML Paths.HTML_Menu_PrintPo for DirectShip]</expression>
+          <datatype>text</datatype>
+          <comparisontype>Equal</comparisontype>
+        </elementparameter>
+      </element>
+      <action>
+        <id>WebClick</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="2e8ab520-41ae-48a3-bfc2-1a8b4d4c00dd" name="Activate Application" type="Navigate">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>Activate Application</narrative>
+    <display x="-315" y="30" />
+    <onsuccess>6868b082-4539-475b-bd29-e39dba189527</onsuccess>
+    <step>
+      <element id="12795bdf-73ba-4f74-a233-e93c2bfb12ce" />
+      <action>
+        <id>ActivateApp</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="127dbd25-e69c-42d7-b47f-0b8b1ad94f2b" name="Time Out - PrintPO Menu exists" type="WaitEnd">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="-240" y="75" w="30" h="30" />
+    <onsuccess>4b620bc0-e986-4048-9869-3b2055f8343a</onsuccess>
+    <groupid>6059ff5c-41e8-4cbc-88e3-17cca9741159</groupid>
+  </stage>
+  <stage stageid="6868b082-4539-475b-bd29-e39dba189527" name="PrintPO Menu exists" type="WaitStart">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <narrative>PrintPO Menu exists</narrative>
+    <display x="-390" y="75" w="30" h="30" />
+    <groupid>6059ff5c-41e8-4cbc-88e3-17cca9741159</groupid>
+    <breakpoint type="0"><condition /></breakpoint><choices>
+      <choice reply="True">
+        <name>HTML_Menu_PrintPo for DirectShip Check Exists</name>
+        <distance>75</distance>
+        <ontrue>8e1a311a-2bd3-4e0e-8d54-557dcc3b89e1</ontrue>
+        <element id="ff8176c7-07d8-4467-b04d-a05773200918">
+          <elementparameter>
+            <name>wXPath</name>
+            <expression>[HTML Paths.HTML_Menu_PrintPo for DirectShip]</expression>
+            <datatype>text</datatype>
+            <comparisontype>Equal</comparisontype>
+          </elementparameter>
+        </element>
+        <condition>
+          <id>WebCheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>[Global Timeout - L]</timeout>
+  </stage>
+  <stage stageid="4b83e910-2c9e-43a1-80b7-1e53f364d6fb" name="SE-JD Edwards home screen not found" type="Exception">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="-150" y="-30" w="90" h="30" />
+    <exception type="System Exception" detail="&quot;SE-JD Edwards home screen not found&quot;" />
+  </stage>
+  <stage stageid="4b620bc0-e986-4048-9869-3b2055f8343a" name="SE-PrintPo Menu not found" type="Exception">
+    <subsheetid>829df093-6d6f-499d-8798-f07d59d21c87</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="-150" y="75" w="90" h="30" />
+    <exception type="System Exception" detail="&quot;SE-PrintPo Menu not found&quot;" />
+  </stage>
+  <stage stageid="6e292fe1-be2c-462d-9485-5d000a83dc92" name="Child index" type="Data">
+    <display x="300" y="30" w="90" h="30" />
+    <datatype>number</datatype>
+    <initialvalue />
+    <alwaysinit />
+  </stage>
+  <stage stageid="555e532c-d72c-4ed9-972d-b314deafcd5b" name="Process Name" type="Data">
+    <display x="120" y="75" w="90" h="30" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <alwaysinit />
+  </stage>
+  <stage stageid="1b8a9eea-502a-4c23-8b44-5ee3c7c17288" name="HTML Paths" type="Collection">
+    <display x="210" y="75" w="90" h="30" />
+    <datatype>collection</datatype>
+    <alwaysinit />
+  </stage>
+</process>
